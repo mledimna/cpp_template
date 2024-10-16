@@ -21,7 +21,7 @@ void main_cpp();
 
 #ifdef __cplusplus
 /* BEGIN USER CODE C++ DEFINITIONS */
-
+#include <iostream>
 /* END USER CODE C++ DEFINITIONS */
 #endif
 #endif /* CPP_MAIN_HPP_ */
